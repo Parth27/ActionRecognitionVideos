@@ -1,0 +1,9 @@
+ ### Requirements for code ###
+pandas
+numpy>=1.6.1
+torch==1.5.1
+bisect
+opencv-python==3.4.4
+scipy>=0.9
+scikit-learn
+glob
