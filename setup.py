@@ -14,5 +14,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    install_requires=['pandas','numpy>=1.6.1','torch==1.5.1','bisect','scipy>=0.9','pip install opencv-python==3.4.4','scikit-learn','glob'],
+    install_requires=['pandas','numpy>=1.6.1','torch==1.5.1','bisect','scipy>=0.9','opencv-python==3.4.4','scikit-learn','glob'],
 )
